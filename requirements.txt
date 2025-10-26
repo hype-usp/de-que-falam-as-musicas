@@ -1,0 +1,10 @@
+pandas
+spacy
+scikit-learn
+transformers
+torch
+matplotlib
+seaborn
+wordcloud
+pysentimiento
+unidecode
