@@ -1,0 +1,70 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Arquivos de sistema
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+*.DS_Store
+Thumbs.db
+
+# Configurações do VSCode
+.vscode/
+
+# Logs e relatórios
+*.log
+*.out
+*.tmp
+
+# Dados grandes ou sensíveis
+data/
+datasets/
+*.csv
+*.xlsx
+*.json
+*.txt
+
+# Arquivos de Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Arquivos de configuração
+.env
+*.env
+*.ini
+*.cfg
+
+# Pip e cache Python
+pip-log.txt
+pip-delete-this-directory.txt
+pip-wheel-metadata/
+.wheels/
+
+# Cache do PyTorch, Transformers, etc
+cache/
+huggingface/
+hf_cache/
+transformers/
+
+# Modelos e pesos
+*.pt
+*.bin
+*.h5
+models/
+
+# Arquivos temporários
+*.bak
+*.swp
+*.swm
+*.swo
+*.tmp
+
+# Dados gerados automaticamente
+outputs/
+results/
+runs/
